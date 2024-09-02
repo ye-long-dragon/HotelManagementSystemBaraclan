@@ -7,22 +7,29 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ComponentFactory.Krypton.Toolkit;
 
 namespace HotelManagementSystemBaraclan
 {
-    public partial class Main : Form
+    public partial class Main : KryptonForm
     {
+
+        /*
+        128, 0, 0 - Maroon
+        159, 6, 6 - Dark Red
+        252, 171, 16 - Dandelion
+        255, 215, 0 - Yellow
+        255, 250, 224 - Eggshell White
+        255, 255, 255 - White
+         */
+
+
         public Main()
         {
             InitializeComponent();
         }
-             
-        private void btnUserClicked(object sender, EventArgs e)
-        {
 
-        }
-
-        private void btnEmployeeClicked(object sender, EventArgs e)
+        private void Main_Load(object sender, EventArgs e)
         {
 
         }
