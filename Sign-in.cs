@@ -15,12 +15,12 @@ namespace HotelManagementSystemBaraclan
     {
 
         /*
-        128, 0, 0 - Maroon
-        159, 6, 6 - Dark Red
-        252, 171, 16 - Dandelion
-        255, 215, 0 - Yellow
-        255, 250, 224 - Eggshell White
-        255, 255, 255 - White
+        128, 0, 0 - Maroon - 800000
+        159, 6, 6 - Dark Red - 9F0606
+        252, 171, 16 - Dandelion - FCAB10
+        255, 215, 0 - Yellow - FFD700
+        255, 250, 224 - Eggshell White - FFFAE0
+        255, 255, 255 - White - FFFFFF
          */
 
 
@@ -30,6 +30,11 @@ namespace HotelManagementSystemBaraclan
         }
 
         private void Main_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }

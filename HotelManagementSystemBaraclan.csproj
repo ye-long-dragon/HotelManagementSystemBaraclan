@@ -81,6 +81,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -94,6 +95,270 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 1%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 2%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 3%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 4%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 5%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 6%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 7%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 8%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 9%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 18%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 19%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 20%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 21%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 22%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 23%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 24%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 25%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 26%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 27%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 28%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 29%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 30%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 31%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 32%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 33%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 34%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 35%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 36%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 37%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 38%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 39%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 40%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 41%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 42%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 43%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 44%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 45%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 46%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 47%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 48%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 49%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 50%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 51%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 52%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 53%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 54%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 55%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 56%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 57%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 58%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 59%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 60%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 61%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 62%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 63%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 64%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 65%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 66%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 67%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 68%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 69%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 70%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 71%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 72%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 73%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 74%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 75%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 76%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 77%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 78%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 79%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 80%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 81%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 82%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 83%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 84%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 85%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 86%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 87%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 88%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 10%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 11%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 12%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 13%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 14%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 15%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 16%400.5x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asset 17%400.5x.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
