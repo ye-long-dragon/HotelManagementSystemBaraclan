@@ -300,7 +300,6 @@
             this.log_inPage1.Size = new System.Drawing.Size(975, 553);
             this.log_inPage1.TabIndex = 4;
             this.log_inPage1.Visible = false;
-            this.log_inPage1.Load += new System.EventHandler(this.log_inPage1_Load);
             // 
             // Main
             // 

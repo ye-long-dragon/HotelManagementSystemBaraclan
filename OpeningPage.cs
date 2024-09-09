@@ -57,11 +57,6 @@ namespace HotelManagementSystemBaraclan
             kryptonPalette1.HeaderStyles.HeaderForm.StateCommon.Border.Color2 = Color.FromArgb(0, 128, 0, 0);
 
         }
-
-        private void log_inPage1_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
 
