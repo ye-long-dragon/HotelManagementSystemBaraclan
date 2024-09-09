@@ -62,16 +62,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Sign-in.cs">
+    <Compile Include="Log-inPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Log-inPage.Designer.cs">
+      <DependentUpon>Log-inPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OpeningPage.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Sign-in.Designer.cs">
-      <DependentUpon>Sign-in.cs</DependentUpon>
+    <Compile Include="OpeningPage.Designer.cs">
+      <DependentUpon>OpeningPage.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Sign-in.resx">
-      <DependentUpon>Sign-in.cs</DependentUpon>
+    <EmbeddedResource Include="Log-inPage.resx">
+      <DependentUpon>Log-inPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OpeningPage.resx">
+      <DependentUpon>OpeningPage.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -24,13 +24,19 @@ namespace HotelManagementSystemBaraclan
          */
 
 
+
+
         public Main()
         {
             InitializeComponent();
+            Log_inPage log_InPage1 = new Log_inPage();
+
         }
 
         private void Main_Load(object sender, EventArgs e)
         {
+            log_inPage1.Hide();
+
 
         }
 
@@ -38,5 +44,15 @@ namespace HotelManagementSystemBaraclan
         {
 
         }
+
+        private void managementButton_Click(object sender, EventArgs e)
+        {
+
+            log_inPage1.Show();
+            kryptonPalette1.HeaderStyles.HeaderForm.StateCommon.Border.Color1 = Color.FromArgb(0, 128, 0, 0);
+            kryptonPalette1.HeaderStyles.HeaderForm.StateCommon.Border.Color2 = Color.FromArgb(0, 128, 0, 0);
+
+        }
     }
 }
+
