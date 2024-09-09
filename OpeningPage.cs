@@ -49,8 +49,17 @@ namespace HotelManagementSystemBaraclan
         {
 
             log_inPage1.Show();
+            startLabel1.Hide();
+            startLabel2.Hide();
+            userKrypton.Hide();
+            managementButton.Hide();
             kryptonPalette1.HeaderStyles.HeaderForm.StateCommon.Border.Color1 = Color.FromArgb(0, 128, 0, 0);
             kryptonPalette1.HeaderStyles.HeaderForm.StateCommon.Border.Color2 = Color.FromArgb(0, 128, 0, 0);
+
+        }
+
+        private void log_inPage1_Load(object sender, EventArgs e)
+        {
 
         }
     }
