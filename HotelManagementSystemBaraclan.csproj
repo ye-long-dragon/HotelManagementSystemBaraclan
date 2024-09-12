@@ -76,6 +76,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sign-inScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sign-inScreen.Designer.cs">
+      <DependentUpon>Sign-inScreen.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Log-inPage.resx">
       <DependentUpon>Log-inPage.cs</DependentUpon>
     </EmbeddedResource>
@@ -92,6 +98,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Sign-inScreen.resx">
+      <DependentUpon>Sign-inScreen.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

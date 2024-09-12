@@ -36,6 +36,7 @@ namespace HotelManagementSystemBaraclan
         private void Main_Load(object sender, EventArgs e)
         {
             log_inPage1.Hide();
+            sign_inScreen1.Hide();
 
 
         }
@@ -53,6 +54,8 @@ namespace HotelManagementSystemBaraclan
             startLabel2.Hide();
             userKrypton.Hide();
             managementButton.Hide();
+            log_inPage1.Dock = DockStyle.Top;
+            
             kryptonPalette1.HeaderStyles.HeaderForm.StateCommon.Border.Color1 = Color.FromArgb(0, 128, 0, 0);
             kryptonPalette1.HeaderStyles.HeaderForm.StateCommon.Border.Color2 = Color.FromArgb(0, 128, 0, 0);
 

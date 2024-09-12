@@ -35,6 +35,7 @@
             this.userKrypton = new ComponentFactory.Krypton.Toolkit.KryptonButton();
             this.managementButton = new ComponentFactory.Krypton.Toolkit.KryptonButton();
             this.log_inPage1 = new HotelManagementSystemBaraclan.Log_inPage();
+            this.sign_inScreen1 = new HotelManagementSystemBaraclan.Sign_inScreen();
             this.SuspendLayout();
             // 
             // kryptonPalette1
@@ -295,11 +296,19 @@
             // 
             // log_inPage1
             // 
-            this.log_inPage1.Location = new System.Drawing.Point(-8, -1);
+            this.log_inPage1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.log_inPage1.Location = new System.Drawing.Point(0, 0);
             this.log_inPage1.Name = "log_inPage1";
-            this.log_inPage1.Size = new System.Drawing.Size(975, 553);
+            this.log_inPage1.Size = new System.Drawing.Size(959, 544);
             this.log_inPage1.TabIndex = 4;
             this.log_inPage1.Visible = false;
+            // 
+            // sign_inScreen1
+            // 
+            this.sign_inScreen1.Location = new System.Drawing.Point(-12, 0);
+            this.sign_inScreen1.Name = "sign_inScreen1";
+            this.sign_inScreen1.Size = new System.Drawing.Size(982, 555);
+            this.sign_inScreen1.TabIndex = 5;
             // 
             // Main
             // 
@@ -310,6 +319,7 @@
             this.Controls.Add(this.startLabel2);
             this.Controls.Add(this.startLabel1);
             this.Controls.Add(this.log_inPage1);
+            this.Controls.Add(this.sign_inScreen1);
             this.Font = new System.Drawing.Font("Corbel", 7.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.GroupBorderStyle = ComponentFactory.Krypton.Toolkit.PaletteBorderStyle.TabCustom2;
@@ -334,6 +344,7 @@
         private ComponentFactory.Krypton.Toolkit.KryptonButton userKrypton;
         private ComponentFactory.Krypton.Toolkit.KryptonButton managementButton;
         private Log_inPage log_inPage1;
+        private Sign_inScreen sign_inScreen1;
     }
 }
 
